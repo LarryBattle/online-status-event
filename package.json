@@ -35,10 +35,7 @@
   "directories": {
     "lib": "lib"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nguyenj/online-status-event.git"
-  },
+  "repository": "github:nguyenj/online-status-event",
   "bugs": {
     "url": "https://github.com/nguyenj/online-status-event/issues"
   },
